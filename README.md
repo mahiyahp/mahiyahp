@@ -1,15 +1,21 @@
-<h1 align="center">Hi, This is Mahiya. A passionate frontend developer.</h1>
+<h3>Web Developer | Graphic Designer </h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<h3><samp><strong>Languages & Frameworks & Tools:</strong></samp></h3>
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="js">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" width="48" title="react">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="48" title="redux">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="css">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="html">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg"  width="48" title="php"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="vscode">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" width="48" title="mysql"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48" title="bootstrap">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" width="48" title="vite">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="sass">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="48" title="Nodejs">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="photoshop">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="48" title="github">
+     </a>
  </p>
