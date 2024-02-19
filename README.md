@@ -1,4 +1,4 @@
-<h3>Web Developer | Graphic Designer </h3>
+<h3>Web Developer </h3>
 
 <h3><samp><strong>Programming languages, frameworks and tools:</strong></samp></h3>
 <p align="center">
