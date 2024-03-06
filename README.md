@@ -16,7 +16,6 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" width="48" title="vite">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="sass">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" width="48" title="Nodejs">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" title="photoshop">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="48" title="github">
      </a>
  </p>
